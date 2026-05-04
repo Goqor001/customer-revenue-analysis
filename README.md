@@ -39,12 +39,12 @@ The goal is to identify:
 
 customer-revenue-analysis/
 ├── data/
-├── database/
 ├── scripts/
 ├── sql/
 ├── outputs/
 ├── dashboards/
 ├── images/
+├── sales.db
 └── README.md
 
 ---
