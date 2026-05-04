@@ -1,0 +1,267 @@
+order_id,customer_id,customer_name,city,product_category,product_name,quantity,price,order_date
+O5000,C1007,Sona Karapetyan,Goris,Food,Chocolate,,2.85,24/03/2026
+O5001,C1022,Artur Gevorgyan,Abovyan,Clothing,Hoodie,5,27.99,2026-04-12
+O5002,C1014, Armen Galstyan ,Armavir,Food,Chocolate,1,3.56,2026-01-19
+O5003,C1014,Armen Galstyan,Gyumri,Clothing,Sneakers,2,70.01,2026-04-04
+O5004,C1008,Hayk Harutyunyan,Abovyan,Electronics,USB-C Cable,2,8.19,10/05/2026
+O5005,C1012,Karen Khachatryan,Vanadzor,Clothing,Sneakers,2,61.01,2026-04-18
+O5006,C1017,Eva Baghdasaryan,Yerevan,Clothing,T-Shirt,1,13.24,2026-01-25
+O5007,C1009,Elena Vardanyan,Goris,Electronics,Wireless Mouse,5,21.27,2026/04/04
+O5008,C1009,Elena Vardanyan,Yerevan,Beauty,Shampoo,5,5.99,02-14-2026
+O5009,C1009,Elena Vardanyan,Yerevan,Electronics,USB-C Cable,3,8.75,04-24-2026
+O5010,C1006,Davit Hovhannisyan,Armavir,Beauty,Shampoo,5,5.45,02-24-2026
+O5011,C1013,Mane Martirosyan,Yerevan,Electronics,Headphones,1,34.41,2026-01-10
+O5012,C1022,Artur Gevorgyan,Armavir,Beauty,Perfume,6,46.87,04/03/2026
+O5012,C1022,Artur Gevorgyan,Armavir,Beauty,Perfume,6,46.87,04/03/2026
+O5013,C1003,Mariam Hakobyan,Vanadzor,Clothing,T-Shirt,3,12.03,2026/01/23
+O5014,C1003,Mariam Hakobyan,Gyumri,Food,Tea,3,4.42,2026-04-22
+O5015,C1018,Samvel Margaryan,Yerevan,Electronics,Power Bank,1,30.5,02-17-2026
+O5016,C1020,Mariam Sargsyan,Goris,Clothing,Sneakers,6,69.8,2026/01/18
+O5017,C1018,Samvel Margaryan,Yerevan,Home,Kitchen Set,6,60.25,2026/03/03
+O5018,C1012,Karen Khachatryan,Armavir,Beauty,Face Cream,1,16.97,2026-01-24
+O5019,C1020,Mariam Sargsyan,Armavir,Electronics,Bluetooth Speaker,1,49.56,02-18-2026
+O5020,C1014,Armen Galstyan,Goris,Beauty,Soap,1,2.45,15/02/2026
+O5021,C1016,Robert Melikyan,Gyumri,Beauty,Soap,2,2.28,02/05/2026
+O5022,C1009,Elena Vardanyan,Gyumri,Food,Coffee,5,6.65,2026/03/21
+O5023,C1020,Mariam Sargsyan,Yerevan,Food,Tea,2,4.16,2026-01-11
+O5024,C1002,Gor Sargsyan,Abovyan,Electronics,Headphones,3,32.22,2026-02-28
+O5025,C1015,Nina Abrahamyan,Yerevan,Food,Pasta,1,2.43,2026-03-13
+O5026,C1005,Lilit Manukyan,Armavir,Food,Coffee,5,6.02,2026/01/17
+O5027,C1018,Samvel Margaryan,Armavir,Home,Wall Clock,6,17.04,04/05/2026
+O5028,C1008,Hayk Harutyunyan,Yerevan,Clothing,Hoodie,2,34.47,05-13-2026
+O5029,C1004,Narek Avagyan,Abovyan,Electronics,Bluetooth Speaker,6,46.39,2026-02-26
+O5030,C1013,Mane Martirosyan,Abovyan,Home,Desk Lamp,2,23.47,2026-04-20
+O5031,C1000,Aram Petrosyan,Vanadzor,Home,Storage Box,1,13.54,02/12/2026
+O5032,C1001,Ani Grigoryan,Vanadzor,Food,Chocolate,5,2.86,2026/01/29
+O5033,C1009,Elena Vardanyan,Vanadzor,Food,Tea,4,4.43,2026-03-08
+O5034,C1006,Davit Hovhannisyan,Armavir,Beauty,Soap,1,2.2,2026-01-09
+O5035,C1022,Artur Gevorgyan,Goris,Electronics,Wireless Mouse,3,20.25,2026/04/06
+O5036,C1000,Aram Petrosyan,Abovyan,Home,Kitchen Set,1,60.22,2026-04-10
+O5037,C1015,Nina Abrahamyan,Goris,Clothing,Jacket,1,84.15,04-26-2026
+O5038,C1011,Anna Simonyan,Gyumri,Clothing,T-Shirt,2,13.65,2026-01-12
+O5039,C1012,Karen Khachatryan,Goris,Beauty,Shampoo,1,6.48,04/09/2026
+O5040,C1015,Nina Abrahamyan,Yerevan,Home,Wall Clock,3,,04-18-2026
+O5041,C1002,Gor Sargsyan,Goris,Electronics,Headphones,3,36.45,2026-04-14
+O5042,C1009,Elena Vardanyan,Goris,Food,Pasta,4,2.17,2026-02-04
+O5043,C1011,Anna Simonyan,Goris,Clothing,Hoodie,6,30.22,05/01/2026
+O5044,C1017,Eva Baghdasaryan,Vanadzor,Food,Olive Oil,4,10.4,2026-01-31
+O5045,C1015,Nina Abrahamyan,Armavir,Clothing,Jeans,6,42.0,2026-02-13
+O5046,C1011,Anna Simonyan,Armavir,Clothing,Hoodie,6,30.48,2026-04-20
+O5047,C1004,Narek Avagyan,Goris,Electronics,Power Bank,6,31.59,15/03/2026
+O5047,C1004,Narek Avagyan,Goris,Electronics,Power Bank,6,31.59,15/03/2026
+O5048,C1004,Narek Avagyan,Gyumri,Beauty,Shampoo,4,5.74,2026/04/19
+O5049,C1004,Narek Avagyan,Abovyan,Beauty,Shampoo,5,6.24,2026/01/30
+O5050,C1000,Aram Petrosyan,Armavir,Food,Coffee,4,6.66,02/15/2026
+O5051,C1011,Anna Simonyan,Goris,Home,Desk Lamp,2,23.66,2026/03/16
+O5052,C1000,Aram Petrosyan,Abovyan,Electronics,Headphones,5,35.66,2026-01-18
+O5053,C1007,Sona Karapetyan,Abovyan,Beauty,Shampoo,6,5.83,2026-02-21
+O5054,C1016,Robert Melikyan,Armavir,Electronics,Power Bank,5,31.46,2026/01/18
+O5055,C1015,Nina Abrahamyan,Gyumri,Electronics,Bluetooth Speaker,1,45.36,04/25/2026
+O5056,C1009,Elena Vardanyan,Yerevan,Electronics,Power Bank,3,27.06,04/29/2026
+O5057,C1020,Mariam Sargsyan,Goris,Food,Coffee,5,6.43,2026-01-08
+O5058,C1014,Armen Galstyan,Gyumri,Electronics,Headphones,6,35.39,01/23/2026
+O5059,C1024,Levon Minasyan,Abovyan,Electronics,Bluetooth Speaker,1,46.3,2026/05/02
+O5060,C1022,Artur Gevorgyan,Goris,Electronics,Wireless Mouse,5,19.18,03-24-2026
+O5061,C1013,Mane Martirosyan,Yerevan,Electronics,Bluetooth Speaker,3,45.61,2026-03-23
+O5062,C1021,Lia Davtyan,Vanadzor,Home,Storage Box,2,12.95,2026-05-02
+O5063,C1017,Eva Baghdasaryan,Goris,Food,Coffee,2,6.42,2026-02-02
+O5064,C1002,Gor Sargsyan,Gyumri,Food,Tea,3,4.71,2026-01-18
+O5065,C1022,Artur Gevorgyan,Vanadzor,Home,Wall Clock,3,,03/21/2026
+O5066,C1014, Armen Galstyan ,Yerevan,Electronics,Bluetooth Speaker,2,44.15,2026-01-27
+O5067,C1004,Narek Avagyan,Abovyan,Clothing,Hoodie,5,32.16,2026-01-18
+O5068,C1016, Robert Melikyan ,Armavir,Food,Chocolate,3,2.93,2026-04-28
+O5069,C1009,Elena Vardanyan,Vanadzor,Electronics,Headphones,2,35.58,2026/02/12
+O5070,C1011,Anna Simonyan,Yerevan,Electronics,USB-C Cable,5,8.43,15/02/2026
+O5071,C1001,Ani Grigoryan,Vanadzor,Clothing,Sneakers,4,68.36,05/02/2026
+O5072,C1004,Narek Avagyan,Yerevan,Food,Olive Oil,2,10.4,02/03/2026
+O5073,C1014,Armen Galstyan,Abovyan,Clothing,Jeans,1,39.66,2026/03/02
+O5074,C1019,Suren Asatryan,Yerevan,Home,Kitchen Set,6,59.54,2026-01-16
+O5075,C1015,Nina Abrahamyan,Gyumri,Clothing,Jeans,6,36.36,2026-05-09
+O5076,C1004,Narek Avagyan,Abovyan,Home,Kitchen Set,2,50.3,2026-05-03
+O5077,C1011,Anna Simonyan,Armavir,Electronics,Power Bank,1,27.16,02-08-2026
+O5078,C1020,Mariam Sargsyan,Yerevan,Home,Bedsheet,2,30.88,2026-01-11
+O5079,C1001,Ani Grigoryan,Abovyan,Clothing,T-Shirt,5,11.89,04/16/2026
+O5080,C1017,Eva Baghdasaryan,Yerevan,Food,Pasta,2,2.12,2026-03-24
+O5081,C1008,Hayk Harutyunyan,Abovyan,Electronics,Headphones,2,36.61,2026/01/17
+O5082,C1013,Mane Martirosyan,Goris,Electronics,Bluetooth Speaker,1,51.49,2026-04-29
+O5083,C1019,Suren Asatryan,Abovyan,Home,Wall Clock,5,17.05,2026-02-07
+O5084,C1017,Eva Baghdasaryan,Yerevan,Electronics,Power Bank,5,28.5,2026/01/31
+O5085,C1013,Mane Martirosyan,Vanadzor,Clothing,T-Shirt,4,13.12,2026-02-27
+O5086,C1022,Artur Gevorgyan,Yerevan,Clothing,T-Shirt,2,11.66,2026/03/10
+O5087,C1008,Hayk Harutyunyan,Armavir,Beauty,Shampoo,4,5.95,04/21/2026
+O5088,C1019,Suren Asatryan,Goris,Food,Pasta,5,2.32,2026-01-08
+O5088,C1019,Suren Asatryan,Goris,Food,Pasta,5,2.32,2026-01-08
+O5089,C1012,Karen Khachatryan,Armavir,Food,Chocolate,4,3.52,2026/03/01
+O5090,C1012,Karen Khachatryan,Vanadzor,Electronics,Headphones,5,29.03,2026-04-10
+O5091,C1000,Aram Petrosyan,Yerevan,Food,Olive Oil,1,9.59,2026-03-05
+O5092,C1005,Lilit Manukyan,Abovyan,Clothing,Jacket,3,73.22,2026/03/16
+O5093,C1002,Gor Sargsyan,Yerevan,Home,Storage Box,2,14.47,2026-02-28
+O5094,C1007,Sona Karapetyan,Yerevan,Food,Olive Oil,4,10.95,2026/03/10
+O5095,C1015,Nina Abrahamyan,Gyumri,Electronics,Wireless Mouse,1,18.55,01/19/2026
+O5096,C1010,Tigran Mkrtchyan,Vanadzor,Electronics,USB-C Cable,6,8.65,2026/03/06
+O5097,C1017,Eva Baghdasaryan,Vanadzor,Food,Coffee,5,7.2,2026-03-06
+O5098,C1003,Mariam Hakobyan,Yerevan,Food,Olive Oil,4,11.02,2026-02-19
+O5099,C1013,Mane Martirosyan,Abovyan,Clothing,Jacket,3,84.49,2026-04-16
+O5100,C1015,Nina Abrahamyan,Goris,Food,Tea,2,4.42,01/28/2026
+O5101,C1008,Hayk Harutyunyan,Goris,Food,Chocolate,2,3.11,2026/05/12
+O5102,C1012,Karen Khachatryan,Abovyan,Food,Tea,2,4.18,04-03-2026
+O5103,C1009,Elena Vardanyan,Yerevan,Electronics,Headphones,4,31.44,2026/01/11
+O5104,C1006,Davit Hovhannisyan,Abovyan,Clothing,T-Shirt,6,12.73,04-17-2026
+O5105,C1024,Levon Minasyan,Gyumri,Food,Pasta,3,2.2,2026-03-02
+O5106,C1012,Karen Khachatryan,Gyumri,Electronics,Power Bank,6,28.0,2026/04/30
+O5107,C1006,Davit Hovhannisyan,Gyumri,Beauty,Face Cream,2,,2026-02-10
+O5108,C1019,Suren Asatryan,Vanadzor,Electronics,Wireless Mouse,3,18.88,2026-04-11
+O5109,C1007,Sona Karapetyan,Abovyan,Home,Wall Clock,6,18.24,2026-02-09
+O5110,C1004,Narek Avagyan,Vanadzor,Home,Wall Clock,4,18.77,2026/04/08
+O5111,C1024,Levon Minasyan,Abovyan,Electronics,Headphones,5,33.36,2026-01-25
+O5112,C1011,Anna Simonyan,Armavir,Clothing,Sneakers,5,69.26,2026/01/29
+O5113,C1020,Mariam Sargsyan,Goris,Clothing,Jacket,2,83.61,2026/02/02
+O5114,C1000,Aram Petrosyan,Goris,Electronics,Bluetooth Speaker,3,43.91,2026-02-17
+O5115,C1018,Samvel Margaryan,Goris,Clothing,Sneakers,2,61.8,02-16-2026
+O5116,C1008,Hayk Harutyunyan,Vanadzor,Food,Chocolate,3,3.06,03/16/2026
+O5117,C1004,Narek Avagyan,Abovyan,Electronics,USB-C Cable,5,7.47,2026/01/28
+O5118,C1019,Suren Asatryan,Yerevan,Food,Olive Oil,2,10.06,2026/03/04
+O5119,C1023,Hasmik Nersisyan,Gyumri,Clothing,Jeans,6,38.57,2026-01-02
+O5120,C1000,Aram Petrosyan,Abovyan,Food,Chocolate,3,3.38,05-13-2026
+O5121,C1013,Mane Martirosyan,Gyumri,Food,Chocolate,5,3.13,2026-01-06
+O5122,C1012,Karen Khachatryan,Goris,Clothing,Jacket,4,78.4,2026/05/11
+O5123,C1016,Robert Melikyan,Abovyan,Electronics,Headphones,5,30.17,01-15-2026
+O5124,C1020,Mariam Sargsyan,Yerevan,Food,Coffee,4,6.9,2026-01-10
+O5125,C1011,Anna Simonyan,Gyumri,Beauty,Shampoo,2,6.47,01-16-2026
+O5126,C1020,Mariam Sargsyan,Vanadzor,Electronics,USB-C Cable,5,,01-24-2026
+O5127,C1011,Anna Simonyan,Armavir,Home,Storage Box,6,12.98,05/04/2026
+O5128,C1013,Mane Martirosyan,Gyumri,Clothing,Hoodie,4,30.73,2026/04/09
+O5129,C1006,Davit Hovhannisyan,Armavir,Electronics,Headphones,4,35.74,04-10-2026
+O5130,C1019,Suren Asatryan,Goris,Home,Desk Lamp,2,21.24,2026-03-18
+O5131,C1007,Sona Karapetyan,Yerevan,Home,Bedsheet,1,27.84,2026/03/13
+O5132,C1011,Anna Simonyan,Gyumri,Home,Desk Lamp,4,22.03,2026-01-26
+O5133,C1015,Nina Abrahamyan,Yerevan,Clothing,T-Shirt,1,11.39,04/20/2026
+O5133,C1015,Nina Abrahamyan,Yerevan,Clothing,T-Shirt,1,11.39,04/20/2026
+O5134,C1023,Hasmik Nersisyan,Gyumri,Food,Pasta,3,2.41,2026/01/26
+O5135,C1003,Mariam Hakobyan,Goris,Beauty,Perfume,6,45.34,2026/01/02
+O5136,C1017,Eva Baghdasaryan,Goris,Electronics,Wireless Mouse,1,21.63,2026-01-21
+O5137,C1001,Ani Grigoryan,Vanadzor,Food,Chocolate,1,3.07,2026/02/23
+O5138,C1015,Nina Abrahamyan,Yerevan,Electronics,Headphones,3,32.01,2026/05/11
+O5139,C1004,Narek Avagyan,Abovyan,Food,Olive Oil,6,9.54,2026-02-24
+O5140,C1002,Gor Sargsyan,Goris,Electronics,Headphones,5,34.91,2026-01-21
+O5141,C1005,Lilit Manukyan,Yerevan,Home,Bedsheet,3,31.88,2026-02-13
+O5142,C1011,Anna Simonyan,Yerevan,Home,Kitchen Set,2,50.45,2026-02-07
+O5143,C1016,Robert Melikyan,Armavir,Clothing,T-Shirt,4,12.03,2026/01/28
+O5144,C1011,Anna Simonyan,Yerevan,Electronics,Wireless Mouse,6,17.64,03-08-2026
+O5145,C1017,Eva Baghdasaryan,Vanadzor,Home,Desk Lamp,2,24.39,2026-03-09
+O5146,C1008,Hayk Harutyunyan,Goris,Home,Wall Clock,5,15.5,2026/04/24
+O5147,C1005,Lilit Manukyan,Yerevan,Electronics,Headphones,2,31.95,05/09/2026
+O5148,C1002,Gor Sargsyan,Vanadzor,Beauty,Lotion,5,8.18,04/07/2026
+O5149,C1009,Elena Vardanyan,Gyumri,Clothing,T-Shirt,3,13.63,2026/03/26
+O5150,C1021,Lia Davtyan,Yerevan,Home,Storage Box,5,13.92,02-05-2026
+O5151,C1006,Davit Hovhannisyan,Yerevan,Home,Storage Box,5,13.94,2026-02-12
+O5152,C1020,Mariam Sargsyan,Vanadzor,Food,Tea,6,4.86,02-04-2026
+O5153,C1002,Gor Sargsyan,Abovyan,Beauty,Lotion,4,8.49,2026/03/29
+O5154,C1023,Hasmik Nersisyan,Gyumri,Home,Storage Box,3,11.9,02-03-2026
+O5155,C1005,Lilit Manukyan,Armavir,Clothing,T-Shirt,4,11.45,2026-02-11
+O5156,C1003,Mariam Hakobyan,Goris,Electronics,USB-C Cable,5,8.08,02-07-2026
+O5157,C1016,Robert Melikyan,Vanadzor,Electronics,Power Bank,1,28.11,02-26-2026
+O5158,C1001,Ani Grigoryan,Gyumri,Food,Tea,3,4.66,2026-01-17
+O5159,C1010,Tigran Mkrtchyan,Armavir,Food,Olive Oil,4,11.0,2026-03-16
+O5160,C1012,Karen Khachatryan,Yerevan,Clothing,Jeans,2,43.58,2026-03-16
+O5161,C1024,Levon Minasyan,Armavir,Food,Olive Oil,3,11.13,2026/02/12
+O5162,C1021,Lia Davtyan,Armavir,Electronics,Headphones,4,31.08,2026/05/03
+O5163,C1013,Mane Martirosyan,Armavir,Food,Coffee,6,7.1,2026-01-02
+O5164,C1019,Suren Asatryan,Abovyan,Beauty,Soap,4,2.53,2026/04/23
+O5165,C1012,Karen Khachatryan,Goris,Electronics,Bluetooth Speaker,2,47.18,03/20/2026
+O5166,C1007,Sona Karapetyan,Goris,Clothing,Jacket,1,79.09,02-10-2026
+O5167,C1020,Mariam Sargsyan,Vanadzor,Food,Tea,1,4.81,2026/05/10
+O5168,C1012,Karen Khachatryan,Yerevan,Food,Chocolate,6,3.5,2026/01/11
+O5169,C1004,Narek Avagyan,Yerevan,Home,Bedsheet,2,34.15,02/09/2026
+O5170,C1003,Mariam Hakobyan,Goris,Home,Wall Clock,3,16.43,2026-04-05
+O5171,C1008,Hayk Harutyunyan,Gyumri,Electronics,Headphones,5,30.07,2026-04-09
+O5172,C1015,Nina Abrahamyan,Abovyan,Food,Pasta,6,2.3,2026-03-10
+O5173,C1022,Artur Gevorgyan,Yerevan,Home,Storage Box,5,13.81,2026-03-09
+O5174,C1014,Armen Galstyan,Abovyan,Food,Olive Oil,5,9.55,2026-04-20
+O5175,C1020,Mariam Sargsyan,Abovyan,Electronics,Power Bank,4,26.59,2026-02-23
+O5176,C1021,Lia Davtyan,Gyumri,Home,Desk Lamp,1,23.07,2026-04-14
+O5177,C1022,Artur Gevorgyan,Yerevan,Electronics,Power Bank,1,31.09,2026-03-04
+O5178,C1011,Anna Simonyan,Gyumri,Food,Coffee,5,7.0,2026/05/02
+O5179,C1016,Robert Melikyan,Yerevan,Electronics,Bluetooth Speaker,1,40.96,03/09/2026
+O5180,C1023,Hasmik Nersisyan,Abovyan,Electronics,Bluetooth Speaker,4,43.1,02-14-2026
+O5181,C1008,Hayk Harutyunyan,Armavir,Home,Kitchen Set,1,60.2,2026-03-22
+O5182,C1002,Gor Sargsyan,Armavir,Home,Storage Box,3,11.88,2026/04/11
+O5183,C1019,Suren Asatryan,Yerevan,Home,Storage Box,3,12.01,2026-02-07
+O5184,C1021,Lia Davtyan,Yerevan,Clothing,Sneakers,3,56.09,2026/03/25
+O5185,C1005,Lilit Manukyan,Gyumri,Beauty,Perfume,3,48.0,2026-03-11
+O5186,C1017,Eva Baghdasaryan,Armavir,Home,Wall Clock,6,16.68,2026/04/17
+O5187,C1019,Suren Asatryan,Armavir,Clothing,Jacket,2,70.0,03-02-2026
+O5188,C1024,Levon Minasyan,Yerevan,Electronics,Headphones,3,31.89,2026/03/13
+O5189,C1006,Davit Hovhannisyan,Goris,Food,Chocolate,6,3.46,2026/02/28
+O5190,C1023,Hasmik Nersisyan,Abovyan,Beauty,Shampoo,1,6.19,04-04-2026
+O5191,C1017,Eva Baghdasaryan,Gyumri,Home,Bedsheet,1,28.39,2026/04/25
+O5192,C1018,Samvel Margaryan,Yerevan,Food,Chocolate,5,2.85,02-27-2026
+O5193,C1014,Armen Galstyan,Yerevan,Electronics,Wireless Mouse,4,18.58,2026/01/28
+O5194,C1003,Mariam Hakobyan,Yerevan,Electronics,Headphones,4,35.67,2026/03/25
+O5195,C1012,Karen Khachatryan,Gyumri,Beauty,Perfume,4,52.38,01-03-2026
+O5196,C1008,Hayk Harutyunyan,Gyumri,Electronics,Power Bank,2,29.68,01/24/2026
+O5197,C1011,Anna Simonyan,Armavir,Food,Pasta,6,2.46,2026/01/10
+O5198,C1002,Gor Sargsyan,Yerevan,Electronics,USB-C Cable,4,7.6,2026/02/03
+O5199,C1005,Lilit Manukyan,,Food,Chocolate,6,2.91,2026-02-20
+O5200,C1021,Lia Davtyan,Yerevan,Food,Olive Oil,2,8.97,04/26/2026
+O5201,C1011,Anna Simonyan,Vanadzor,Clothing,Sneakers,5,62.87,2026/02/09
+O5201,C1011,Anna Simonyan,Vanadzor,Clothing,Sneakers,5,62.87,2026/02/09
+O5202,C1001,Ani Grigoryan,Abovyan,Beauty,Face Cream,3,15.69,2026-01-27
+O5203,C1005,Lilit Manukyan,Vanadzor,Electronics,Wireless Mouse,5,18.48,2026-04-25
+O5204,C1005,Lilit Manukyan,Yerevan,Beauty,Face Cream,2,15.78,2026/03/18
+O5205,C1018,Samvel Margaryan,Yerevan,Electronics,Headphones,4,,2026-04-03
+O5206,C1010,Tigran Mkrtchyan,Gyumri,Home,Kitchen Set,4,59.25,2026-05-03
+O5207,C1018,Samvel Margaryan,Yerevan,Electronics,Bluetooth Speaker,5,41.97,2026/04/28
+O5208,C1012,Karen Khachatryan,Gyumri,Home,Storage Box,2,13.8,05-14-2026
+O5209,C1014,Armen Galstyan,Gyumri,Electronics,Power Bank,6,29.72,2026-01-20
+O5210,C1003,Mariam Hakobyan,Yerevan,Electronics,Headphones,5,30.86,2026-02-24
+O5211,C1003,Mariam Hakobyan,Armavir,Electronics,Wireless Mouse,1,19.08,2026-05-11
+O5212,C1016,Robert Melikyan,Yerevan,Electronics,Power Bank,4,26.9,2026-04-01
+O5213,C1002,Gor Sargsyan,Gyumri,Clothing,Jacket,3,73.93,2026/03/24
+O5214,C1001,Ani Grigoryan,Yerevan,Food,Chocolate,1,3.28,01/29/2026
+O5215,C1009,Elena Vardanyan,Goris,Electronics,Headphones,4,30.43,2026-02-15
+O5216,C1017,Eva Baghdasaryan,Goris,Home,Kitchen Set,2,55.1,2026/05/11
+O5217,C1013,Mane Martirosyan,Yerevan,Electronics,Bluetooth Speaker,3,51.75,2026/05/15
+O5218,C1001,Ani Grigoryan,Goris,Electronics,Bluetooth Speaker,2,40.96,2026/04/30
+O5219,C1022,Artur Gevorgyan,Yerevan,Electronics,Wireless Mouse,6,17.92,2026-03-11
+O5220,C1012,Karen Khachatryan,Abovyan,Home,Desk Lamp,5,22.43,2026/01/10
+O5221,C1004,Narek Avagyan,Yerevan,Food,Tea,4,5.0,2026-05-12
+O5222,C1008,Hayk Harutyunyan,Yerevan,Food,Tea,6,4.87,2026/04/04
+O5223,C1010,Tigran Mkrtchyan,Gyumri,Beauty,Perfume,5,52.61,03-11-2026
+O5224,C1010,Tigran Mkrtchyan,Armavir,Food,Tea,3,4.79,2026-02-24
+O5225,C1003,Mariam Hakobyan,Yerevan,Beauty,Face Cream,3,16.61,2026/01/29
+O5226,C1014,Armen Galstyan,Vanadzor,Beauty,Lotion,2,8.05,04-03-2026
+O5227,C1012,Karen Khachatryan,Abovyan,Home,Bedsheet,5,29.33,2026-04-04
+O5228,C1015,Nina Abrahamyan,Gyumri,Electronics,Headphones,2,30.6,2026-01-27
+O5229,C1019,Suren Asatryan,Abovyan,Home,Kitchen Set,5,61.06,2026-03-27
+O5230,C1008,Hayk Harutyunyan,Vanadzor,Food,Olive Oil,5,10.29,01/22/2026
+O5231,C1003,Mariam Hakobyan,Yerevan,Electronics,Bluetooth Speaker,3,50.66,2026-04-27
+O5232,C1020,Mariam Sargsyan,Gyumri,Electronics,Wireless Mouse,4,20.24,02/25/2026
+O5233,C1012,Karen Khachatryan,Goris,Clothing,Jacket,3,73.98,2026/03/25
+O5234,C1015,Nina Abrahamyan,Yerevan,Food,Coffee,3,7.33,2026-03-10
+O5235,C1019,Suren Asatryan,Yerevan,Food,Olive Oil,3,10.03,2026-02-23
+O5236,C1010,Tigran Mkrtchyan,Vanadzor,Beauty,Soap,3,2.34,2026/02/18
+O5237,C1005,Lilit Manukyan,Abovyan,Clothing,Sneakers,5,65.2,2026/05/06
+O5238,C1006,Davit Hovhannisyan,Gyumri,Home,Bedsheet,3,28.3,2026-03-29
+O5239,C1014,Armen Galstyan,Armavir,Electronics,USB-C Cable,5,8.51,2026-01-08
+O5240,C1013,Mane Martirosyan,Armavir,Clothing,T-Shirt,2,11.81,2026-01-29
+O5241,C1001,Ani Grigoryan,Gyumri,Home,Desk Lamp,3,25.39,2026-03-18
+O5242,C1021,Lia Davtyan,Goris,Clothing,Hoodie,1,29.04,05-09-2026
+O5243,C1002,Gor Sargsyan,Yerevan,Electronics,Bluetooth Speaker,1,50.26,2026/03/03
+O5244,C1004,Narek Avagyan,Yerevan,Home,Storage Box,6,12.85,04-21-2026
+O5244,C1004,Narek Avagyan,Yerevan,Home,Storage Box,6,12.85,04-21-2026
+O5245,C1024,Levon Minasyan,Abovyan,Home,Kitchen Set,5,51.85,2026/04/15
+O5246,C1007,Sona Karapetyan,Yerevan,Food,Olive Oil,6,9.16,2026-04-25
+O5247,C1021,Lia Davtyan,Yerevan,Clothing,T-Shirt,2,10.83,2026-05-03
+O5248,C1022,Artur Gevorgyan,Yerevan,Food,Coffee,6,6.82,2026/02/17
+O5249,C1002,Gor Sargsyan,Vanadzor,Home,Kitchen Set,6,,04-19-2026
+O5250,C1014,Armen Galstyan,Abovyan,Food,Chocolate,5,3.09,01-18-2026
+O5251,C1013,Mane Martirosyan,Armavir,Food,Olive Oil,3,9.71,2026/02/03
+O5252,C1007,Sona Karapetyan,Armavir,Electronics,Bluetooth Speaker,6,48.23,2026-01-03
+O5253,C1003,Mariam Hakobyan,Abovyan,Home,Storage Box,2,11.63,05/02/2026
+O5254,C1010,Tigran Mkrtchyan,Gyumri,Clothing,Sneakers,4,69.4,2026/01/28
+O5255,C1002,Gor Sargsyan,Yerevan,Electronics,Power Bank,6,29.57,03/10/2026
+O5256,C1004,Narek Avagyan,Goris,Food,Chocolate,6,2.99,03/27/2026
+O5257,C1002,Gor Sargsyan,Yerevan,Home,Bedsheet,6,32.34,2026/04/02
+O5258,C1014,Armen Galstyan,Vanadzor,Electronics,Wireless Mouse,5,17.15,2026/05/16
+O5259,C1017,Eva Baghdasaryan,Gyumri,Electronics,Power Bank,1,28.26,2026/05/08

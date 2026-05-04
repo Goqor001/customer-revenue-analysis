@@ -1,0 +1,123 @@
+customer_id,customer_name,city,client_revenue,revenue_share,customer_segment
+C1010,Tigran Mkrtchyan,Gyumri,777.65,3.67,VIP
+C1004,Narek Avagyan,Abovyan,665.53,3.14,VIP
+C1011,Anna Simonyan,Armavir,648.98,3.06,VIP
+C1012,Karen Khachatryan,Goris,636.38,3.0,VIP
+C1020,Mariam Sargsyan,Goris,618.17,2.92,Regular
+C1018,Samvel Margaryan,Yerevan,616.1,2.91,Regular
+C1005,Lilit Manukyan,Abovyan,545.66,2.57,Regular
+C1003,Mariam Hakobyan,Yerevan,542.87,2.56,Regular
+C1014,Armen Galstyan,Gyumri,530.68,2.5,Regular
+C1002,Gor Sargsyan,Yerevan,481.06,2.27,Regular
+C1024,Levon Minasyan,Abovyan,472.35,2.23,Regular
+C1019,Suren Asatryan,Yerevan,443.48,2.09,Regular
+C1012,Karen Khachatryan,Gyumri,405.12,1.91,Regular
+C1019,Suren Asatryan,Abovyan,400.67,1.89,Regular
+C1003,Mariam Hakobyan,Goris,361.73,1.71,Regular
+C1015,Nina Abrahamyan,Gyumri,343.27,1.62,Regular
+C1013,Mane Martirosyan,Yerevan,326.49,1.54,Regular
+C1011,Anna Simonyan,Vanadzor,314.35,1.48,Regular
+C1013,Mane Martirosyan,Abovyan,300.41,1.42,Regular
+C1001,Ani Grigoryan,Vanadzor,290.81,1.37,Regular
+C1007,Sona Karapetyan,Armavir,289.38,1.37,Regular
+C1002,Gor Sargsyan,Goris,283.9,1.34,Regular
+C1022,Artur Gevorgyan,Armavir,281.22,1.33,Regular
+C1021,Lia Davtyan,Yerevan,277.47,1.31,Regular
+C1023,Hasmik Nersisyan,Gyumri,274.35,1.29,Regular
+C1022,Artur Gevorgyan,Yerevan,271.9,1.28,Regular
+C1012,Karen Khachatryan,Abovyan,267.16,1.26,Regular
+C1012,Karen Khachatryan,Vanadzor,267.17,1.26,Regular
+C1009,Elena Vardanyan,Yerevan,263.14,1.24,Regular
+C1015,Nina Abrahamyan,Armavir,252.0,1.19,Regular
+C1000,Aram Petrosyan,Abovyan,248.66,1.17,Regular
+C1011,Anna Simonyan,Yerevan,248.89,1.17,Regular
+C1009,Elena Vardanyan,Goris,236.75,1.12,Regular
+C1002,Gor Sargsyan,Gyumri,235.92,1.11,Regular
+C1011,Anna Simonyan,Goris,228.64,1.08,Regular
+C1016,Robert Melikyan,Armavir,214.21,1.01,Regular
+C1008,Hayk Harutyunyan,Gyumri,209.71,0.99,Low Value
+C1004,Narek Avagyan,Goris,207.48,0.98,Low Value
+C1005,Lilit Manukyan,Yerevan,191.1,0.9,Low Value
+C1004,Narek Avagyan,Yerevan,186.2,0.88,Low Value
+C1023,Hasmik Nersisyan,Abovyan,178.59,0.84,Low Value
+C1006,Davit Hovhannisyan,Armavir,172.41,0.81,Low Value
+C1011,Anna Simonyan,Gyumri,163.36,0.77,Low Value
+C1014,Armen Galstyan,Yerevan,162.62,0.77,Low Value
+C1017,Eva Baghdasaryan,Yerevan,159.98,0.75,Low Value
+C1022,Artur Gevorgyan,Goris,156.65,0.74,Low Value
+C1016,Robert Melikyan,Abovyan,150.85,0.71,Low Value
+C1016,Robert Melikyan,Yerevan,148.56,0.7,Low Value
+C1005,Lilit Manukyan,Gyumri,144.0,0.68,Low Value
+C1007,Sona Karapetyan,Abovyan,144.42,0.68,Low Value
+C1017,Eva Baghdasaryan,Goris,144.67,0.68,Low Value
+C1019,Suren Asatryan,Armavir,140.0,0.66,Low Value
+C1022,Artur Gevorgyan,Abovyan,139.95,0.66,Low Value
+C1013,Mane Martirosyan,Gyumri,138.57,0.65,Low Value
+C1000,Aram Petrosyan,Goris,131.73,0.62,Low Value
+C1002,Gor Sargsyan,Abovyan,130.62,0.62,Low Value
+C1015,Nina Abrahamyan,Yerevan,131.84,0.62,Low Value
+C1007,Sona Karapetyan,Yerevan,126.6,0.6,Low Value
+C1017,Eva Baghdasaryan,Vanadzor,126.38,0.6,Low Value
+C1021,Lia Davtyan,Armavir,124.32,0.59,Low Value
+C1018,Samvel Margaryan,Goris,123.6,0.58,Low Value
+C1012,Karen Khachatryan,Yerevan,108.16,0.51,Low Value
+C1001,Ani Grigoryan,Abovyan,106.52,0.5,Low Value
+C1020,Mariam Sargsyan,Abovyan,106.36,0.5,Low Value
+C1014,Armen Galstyan,Abovyan,102.86,0.49,Low Value
+C1014,Armen Galstyan,Vanadzor,101.85,0.48,Low Value
+C1018,Samvel Margaryan,Armavir,102.24,0.48,Low Value
+C1017,Eva Baghdasaryan,Armavir,100.08,0.47,Low Value
+C1008,Hayk Harutyunyan,Yerevan,98.16,0.46,Low Value
+C1020,Mariam Sargsyan,Yerevan,97.68,0.46,Low Value
+C1013,Mane Martirosyan,Armavir,95.35,0.45,Low Value
+C1024,Levon Minasyan,Yerevan,95.67,0.45,Low Value
+C1005,Lilit Manukyan,Vanadzor,92.4,0.44,Low Value
+C1015,Nina Abrahamyan,Goris,92.99,0.44,Low Value
+C1001,Ani Grigoryan,Gyumri,90.15,0.43,Low Value
+C1008,Hayk Harutyunyan,Abovyan,89.6,0.42,Low Value
+C1009,Elena Vardanyan,Vanadzor,88.88,0.42,Low Value
+C1006,Davit Hovhannisyan,Gyumri,84.9,0.4,Low Value
+C1008,Hayk Harutyunyan,Armavir,84.0,0.4,Low Value
+C1008,Hayk Harutyunyan,Goris,83.72,0.4,Low Value
+C1001,Ani Grigoryan,Goris,81.92,0.39,Low Value
+C1020,Mariam Sargsyan,Gyumri,80.96,0.38,Low Value
+C1007,Sona Karapetyan,Goris,79.09,0.37,Low Value
+C1005,Lilit Manukyan,Armavir,75.9,0.36,Low Value
+C1006,Davit Hovhannisyan,Abovyan,76.38,0.36,Low Value
+C1004,Narek Avagyan,Vanadzor,75.08,0.35,Low Value
+C1009,Elena Vardanyan,Gyumri,74.14,0.35,Low Value
+C1006,Davit Hovhannisyan,Yerevan,69.7,0.33,Low Value
+C1008,Hayk Harutyunyan,Vanadzor,60.63,0.29,Low Value
+C1010,Tigran Mkrtchyan,Armavir,58.37,0.28,Low Value
+C1010,Tigran Mkrtchyan,Vanadzor,58.92,0.28,Low Value
+C1017,Eva Baghdasaryan,Gyumri,56.65,0.27,Low Value
+C1019,Suren Asatryan,Vanadzor,56.64,0.27,Low Value
+C1019,Suren Asatryan,Goris,54.08,0.26,Low Value
+C1013,Mane Martirosyan,Vanadzor,52.48,0.25,Low Value
+C1013,Mane Martirosyan,Goris,51.49,0.24,Low Value
+C1020,Mariam Sargsyan,Armavir,49.56,0.23,Low Value
+C1014,Armen Galstyan,Armavir,46.11,0.22,Low Value
+C1002,Gor Sargsyan,Vanadzor,40.9,0.19,Low Value
+C1002,Gor Sargsyan,Armavir,35.64,0.17,Low Value
+C1003,Mariam Hakobyan,Vanadzor,36.09,0.17,Low Value
+C1020,Mariam Sargsyan,Vanadzor,33.97,0.16,Low Value
+C1024,Levon Minasyan,Armavir,33.39,0.16,Low Value
+C1012,Karen Khachatryan,Armavir,31.05,0.15,Low Value
+C1021,Lia Davtyan,Goris,29.04,0.14,Low Value
+C1000,Aram Petrosyan,Armavir,26.64,0.13,Low Value
+C1016,Robert Melikyan,Vanadzor,28.11,0.13,Low Value
+C1021,Lia Davtyan,Vanadzor,25.9,0.12,Low Value
+C1003,Mariam Hakobyan,Abovyan,23.26,0.11,Low Value
+C1004,Narek Avagyan,Gyumri,22.96,0.11,Low Value
+C1021,Lia Davtyan,Gyumri,23.07,0.11,Low Value
+C1006,Davit Hovhannisyan,Goris,20.76,0.1,Low Value
+C1003,Mariam Hakobyan,Armavir,19.08,0.09,Low Value
+C1005,Lilit Manukyan,Unknown,17.46,0.08,Low Value
+C1015,Nina Abrahamyan,Abovyan,13.8,0.07,Low Value
+C1000,Aram Petrosyan,Vanadzor,13.54,0.06,Low Value
+C1003,Mariam Hakobyan,Gyumri,13.26,0.06,Low Value
+C1000,Aram Petrosyan,Yerevan,9.59,0.05,Low Value
+C1024,Levon Minasyan,Gyumri,6.6,0.03,Low Value
+C1001,Ani Grigoryan,Yerevan,3.28,0.02,Low Value
+C1016,Robert Melikyan,Gyumri,4.56,0.02,Low Value
+C1014,Armen Galstyan,Goris,2.45,0.01,Low Value
