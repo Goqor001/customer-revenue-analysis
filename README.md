@@ -38,14 +38,14 @@ The goal is to identify:
 ## 📁 Project Structure
 
 customer-revenue-analysis/
-├── data/
-├── scripts/
-├── sql/
-├── outputs/
-├── dashboards/
-├── images/
-├── sales.db
-└── README.md
+── data/
+── scripts/
+── sql/
+── outputs/
+── dashboards/
+── images/
+── sales.db
+── README.md
 
 ---
 
